@@ -1,6 +1,6 @@
 # Neato Wifi REsT-Controller
-This project aims to access the Neate D85 with a ESP8266 via a REsT-Interface. The project is based on https://github.com/HawtDogFlvrWtr/botvac-wifi
+This project aims to access the Neate D85 with a ESP8266 via a REsT-Interface. 
+The project is based on https://github.com/HawtDogFlvrWtr/botvac-wifi
 
-**The necessary disclaimer:**
-
-THE SOFTWARE AND INFORMATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE, INFORMATION OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+# License
+MIT License (see LICENSE)
